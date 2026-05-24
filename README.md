@@ -129,10 +129,16 @@ This project is private and proprietary to Ezz Digital Solutions.
 
 ## Contact
 
-- **Email**: alexa.spina@udspecialize.com
+- **Email**: ezz.ashater@udspecialize.com
 - **Phone**: +20 106 009 2277
 - **Location**: Cairo, Egypt
 
 ---
+
+## Status: Archived
+
+> This repository is **archived** and serves as an experimental/reference implementation.
+> > It is not actively maintained. This codebase was used as a proof-of-concept for the DEM (Digital Empire Machine) methodology.
+> > > For production use, please refer to the current implementation or contact ezz.ashater@gmail.com for inquiries.
 
 Built with ❤️ by Ezz Digital Solutions
